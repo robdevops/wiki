@@ -1,1 +1,1 @@
-Please see the [wiki](https://github.com/solikeumyeah/linuxdoc/wiki) for individual articles.
+Please see this repos [wiki](https://github.com/solikeumyeah/linuxdoc/wiki) for individual articles.
